@@ -6,7 +6,7 @@ Complete Supreme checkout form with a single click.
 
 - [x] User can save checkout information to storage. 
 - [x] User can load checkout information from storage. 
-- [x] User can automatically fill out checkout information with one click. 
+- [x] User can automatically fill out Supreme checkout information with one click. 
 
 # Technologies
 
