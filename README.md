@@ -4,6 +4,8 @@ A Google Chrome extension that allows users to complete Supreme checkout form wi
 
 # User Stories
 
+The following functionalities are completed:
+
 - [x] User can save checkout information to storage. 
 - [x] User can load checkout information from storage. 
 - [x] User can automatically fill out Supreme checkout information with one click. 
