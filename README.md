@@ -1,7 +1,6 @@
 # Supreme-AutoFill-Chome-Extension
  
-Avoid retyping information during Supreme's checkout. 
-Provide Name, Email, Phone, Address, and Payment information once and continue to complete Supreme checkout form with a single click.
+Avoid retyping information during Supreme's checkout. Complete Supreme checkout form with a single click.
 
 # User Stories
 
