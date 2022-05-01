@@ -15,4 +15,4 @@ Javascript, CSS, HTML, and JSON.
 # Walkthrough GIF
 
 
-<img src='https://media.giphy.com/media/7RPgMNehrRsMRAypN4/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/7RPgMNehrRsMRAypN4/giphy.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
