@@ -1,6 +1,6 @@
 # Supreme-AutoFill-Chome-Extension
  
-Complete Supreme checkout form with a single click using the Supreme AutoFill Chrome Extention.
+Complete Supreme checkout form with a single click.
 
 # User Stories
 
