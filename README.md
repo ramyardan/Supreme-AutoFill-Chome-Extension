@@ -12,7 +12,7 @@ Complete Supreme checkout form with a single click.
 
 Javascript, CSS, HTML, and JSON. 
 
-# Extentision Walkthrough GIF
+# Walkthrough GIF
 
 
 <img src='https://media.giphy.com/media/KpRMEVYwqdGvAAdFcE/giphy.gif' title='Video Walkthrough' width='600' alt='Video Walkthrough' />
